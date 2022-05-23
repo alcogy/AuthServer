@@ -1,0 +1,8 @@
+/bin
+/Docker/.ionide
+/Docker/db
+/obj
+/src/bin
+/src/obj
+.vscode
+.gitattributes
